@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/carrera de coches.unity
+  isLoaded: 1
+  isActive: 1
